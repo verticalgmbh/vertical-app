@@ -2,9 +2,9 @@
 In this repository, you can find the official [vertical app feedback repository](https://github.com/verticalgmbh/vertical-app/issues). Our feedback repository is where you can post, discuss and view feature-requests, ideas, questions and bugreports for the vertical app. 
 
 # Code of Conduct
-This repository is used for the public roadmap only and therefore should not be used to open new discussions or create new issues regarding the vertical-app. Discussions and questions on exisiting roadmap items are welcome but if you want to report an issue or you have a question regarding the product or want to place a feature request please use the following repository-page instead:
+This repository is used for creating feedback, feature requests and bugreorts only and therefore should not be used to open new discussions about exisiting roadmap-features for the vertical-app. Discussions and questions on exisiting items are welcome but if you want to discuss exisiting roadmpat items please use the following repository-page instead:
 
-* [vertical app public issue repo](https://github.com/verticalgmbh/vertical-app/issues)
+* [vertical app roadmap](https://github.com/verticalgmbh/vertical-app-roadmap)
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
@@ -18,7 +18,9 @@ Examples of behavior that contributes to creating a positive environment include
 
 # Guide to the repository
 
-Every item on the roadmap is an issue, with a label that indicates each of the following:
+Every item in this repository is an issue with a label that indicates each of the following states:
 
-* A release phase that describes the next expected phase of the roadmap item. See below for a guide to release phases.
-* A feature area that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
+* The type of the item. Valid types are: bug, enhancement, question, documentation, help wanted.
+* Additional tags for cross references: duplicate, good first issue, invalid.
+
+When opening new items at least on of those labels should be set: bug, enhancement, question.
